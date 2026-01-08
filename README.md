@@ -8,10 +8,18 @@ por quanto tempo, taxa de rendimento, etc.), o desafio consiste em construir um
 auxiliando-o a tomar decisões mais informadas sobre seus investimentos. A solução proposta visa automatizar cálculos complexos, como o valor total investido, 
 o patrimônio acumulado e os dividendos mensais, proporcionando ao usuário uma visão clara de seu potencial retorno.
 
+Perguntas de negócio:
+* Qual o valor total investido?  
+* Qual o patrimônio acumulado?  
+* Quais são os dividendos mensais?
 
-Qual o valor total investido?  
-Qual o patrimônio acumulado?  
-Quais são os dividendos mensais?  
+## Imagens
+
+<img width="730" height="770" alt="image" src="https://github.com/user-attachments/assets/81a9c000-358e-4c03-839a-fce31092569a" />
+
+
+
+<img width="730" height="764" alt="image" src="https://github.com/user-attachments/assets/b25c7f4a-43a0-4216-b431-c87b22c43986" />
 
 
 
